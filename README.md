@@ -1,4 +1,4 @@
-## Lab 4a: Client-Side Scripting (JavaScript)
+# Lab 4a: Client-Side Scripting (JavaScript)
 
 Name:Deeviya A/P Vigneswaran  
 Matric Number: CI240037
