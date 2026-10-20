@@ -22,16 +22,17 @@ The webpage generates an ordered list containing numbers 1 to 5 using a for loop
 4. Click the buttons and test the output.
 
 ## Screenshots
-Q1
+### Q1: Interactive Text Changer
 
 ![Q1 Output](screenshots/Q1-output.png)
 
-Q2
+### Q2: Smart Number Validator
 
 ![Q2 Output](screenshots/Q2-output.png)
 
-Q3
+### Q3: Dynamic Number Generator
 
 ![Q3 Output](screenshots/Q3-output.png)
+
 ## Reflection
 Through this lab, I learned how to use JavaScript to make webpages interactive. I practised using functions and event listeners to respond to button clicks. I also learned how to validate user input using if...else statements and generate list items using a for loop. This lab helped me understand how DOM methods can change webpage content dynamically.
