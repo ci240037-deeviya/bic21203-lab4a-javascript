@@ -2,7 +2,6 @@
 
 Name:Deeviya A/P Vigneswaran  
 Matric Number: CI240037
-Course Code: BIC21203
 
 ## Introduction
 This lab demonstrates the use of JavaScript functions, events, conditions, input validation, loops and DOM manipulation to create interactive webpages.
